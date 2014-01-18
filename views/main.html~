@@ -1,3 +1,4 @@
+For test
 <div class="navbar navbar-fixed-bottom navbar-inverse text-center" ng-show="playerControl.config.isValid">
 	<i class="fa fa-step-forward fa-inverse player-icon" ng-click="playerControl.nextVideo();"></i>
 	<i class="fa fa-inverse player-icon fa-pause" ng-click="playerControl.pauseVideo();" ng-show="playerControl.config.status==1"></i>
